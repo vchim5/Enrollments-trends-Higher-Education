@@ -1,2 +1,0 @@
-processed_student_data.csv filter=lfs diff=lfs merge=lfs -text
-predicted_student_data.csv filter=lfs diff=lfs merge=lfs -text
