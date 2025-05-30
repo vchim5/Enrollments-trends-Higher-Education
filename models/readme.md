@@ -1,0 +1,3 @@
+### The project implemented ARIMA for time series analysis and Linear Regression for feature-based predictions, aiming to effectively forecast enrollment trends. By leveraging these statistical methods, the analysis provided insights into the patterns and factors influencing enrollment figures.
+
+### In addition to the primary forecasting techniques, the project incorporated a scenario-based analysis to evaluate growth rates. This approach included three distinct scenarios: Baseline, Optimistic, and Pessimistic. Each scenario offered a different perspective on potential future enrollment outcomes, enabling a comprehensive understanding of the factors that could impact growth.
